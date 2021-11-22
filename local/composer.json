@@ -1,0 +1,12 @@
+{
+    "name": "emil/tz",
+    "require-dev": {
+        "symfony/var-dumper": "^5.3"
+    },
+    "authors": [
+        {
+            "name": "Emil Ayupov",
+            "email": "emilayupov87@gmail.com"
+        }
+    ]
+}
